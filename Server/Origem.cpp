@@ -10,5 +10,8 @@ int main() {
 	}
 
 	Network::fechar();
+
+	system("pause");
+
 	return 0;
 }
